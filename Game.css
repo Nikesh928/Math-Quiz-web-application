@@ -1,0 +1,52 @@
+body
+{
+	background:#FD0000;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #CDF600;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_name_1 , #player_name_2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.copy_right_footer {
+	position: sticky;
+	color: white;
+	bottom: 0;
+	width: 100%;
+	background-color: grey;
+	line-height: 3;
+	text-align: center;
+}
+
+#output
+{
+background: rgb(100, 159, 236);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
